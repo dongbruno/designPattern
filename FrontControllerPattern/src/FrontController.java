@@ -1,7 +1,7 @@
 public class FrontController {
 
     private Dispatcher dispatcher;
-
+    //前端控制器 - 用于处理应用程序（基于Web或基于桌面）的各种请求的单个处理程序。
     public FrontController(){
         dispatcher = new Dispatcher();
     }

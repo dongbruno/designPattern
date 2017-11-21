@@ -1,3 +1,4 @@
+//传输对象 - 具有仅设置/获取属性的方法的简单POJO。
 public class StudentVO {
 
 	private String name;

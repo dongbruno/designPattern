@@ -1,3 +1,4 @@
+//客户端 - 客户端请求或发送传输对象到业务对象。
 public class TransferObjectPatternDemo {
 
 	public static void main(String[] args) {

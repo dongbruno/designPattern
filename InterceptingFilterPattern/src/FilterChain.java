@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//过滤器链 - 过滤器链携带多个过滤器，并帮助在目标上以定义的顺序执行它们。
 public class FilterChain {
     private List<Filter> filters = new ArrayList<Filter>();
     private Target target;

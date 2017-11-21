@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//业务对象 - 业务服务使用数据填充传输对象。
 public class StudentBO {
 
 	List<StudentVO> students;

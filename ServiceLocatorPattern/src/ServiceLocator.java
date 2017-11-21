@@ -1,3 +1,4 @@
+//服务定位器 - 服务定位器是通过JNDI查找缓存服务获得服务的单一联系点。
 public class ServiceLocator {
     private static Cache cache;
 

@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//缓存 - 用于存储服务的引用以重用它们的缓存。
 public class Cache {
 
     private List<Service> services;

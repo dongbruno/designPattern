@@ -1,3 +1,4 @@
+//上下文/初始上下文 - JNDI上下文携带对用于查找目的的服务的引用。
 public class InitialContext {
     public Object lookup(String jndiName){
 
